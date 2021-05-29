@@ -51,7 +51,7 @@ float mc_pi(int count)
 			circount++;
 		}
 	}
-	float area = 4*(circount/count);
+	float area = ((4*circount)/count);
 	return area;
 }
 
