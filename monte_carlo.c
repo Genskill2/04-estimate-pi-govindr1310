@@ -40,7 +40,7 @@ int main(void) {
 }
 float mc_pi(int count)
 {
-	int circount=0;
+	float circount=0;
 	for(int i=0;i<count;i++)
 	{
 		
